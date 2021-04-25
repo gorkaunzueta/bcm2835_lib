@@ -8,3 +8,4 @@ This bcm2835 library includes the corresponding functions and directions in orde
 
 This library has been tested on a Raspberry Pi 2 Model B+. Different functions to access the GPIO are defined, as well as functions to easily use SPI and I2C communications.
 
+You can find the cFS software for which this library has been designed at: https://github.com/nasa/cFS
